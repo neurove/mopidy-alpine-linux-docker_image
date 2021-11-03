@@ -1,0 +1,6 @@
+Mopidy
+Mopidy-Iris
+Mopidy-MPD
+Mopidy-local
+Mopidy-musicbox_webclient
+mopidy-mobile
