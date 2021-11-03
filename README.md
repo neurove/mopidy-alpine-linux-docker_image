@@ -4,10 +4,11 @@
 
 ## Features:
 - Based on Alpine Linux: smaller than a debian or ubuntu based image.
+- Runs on Raspberry Pi (tested on Model 4B)
 - Uses the latest mopidy version from the python3 pip repository.  
 - Mopidy plugins can be added/removed by editing requirements.txt.  
 - Mopidy configuration example using replaygain for volume normalization and ALSA.
-- Runs on Raspberry Pi (tested on Model 4B)
+- Includes Healtcheck for monitoring
 
 ## Build
 
